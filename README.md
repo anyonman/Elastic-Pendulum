@@ -16,3 +16,6 @@ Video en youtube de la presentacion: https://youtu.be/KOkiIXwtR8w
 ####links para Colab
 https://colab.research.google.com/drive/1dzFv48FO_ERIGLjjAat-HTWWUUWv-IyN?usp=sharing
 https://colab.research.google.com/drive/1iGfMGTkTzrmN_kaJW5etAAkW_Iqkfr4p?usp=sharing
+
+
+https://uniandes-my.sharepoint.com/:u:/r/personal/d_rengifo_uniandes_edu_co/Documents/Archivo_comprimido.zip?csf=1&web=1&e=uMoGvE
